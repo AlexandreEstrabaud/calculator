@@ -22,3 +22,4 @@ if __name__ == "__main__":
     print(multiply(1, 2))
     print(divide(1, 2))
 # Test déclenchement pipeline CI/CD
+#test2
